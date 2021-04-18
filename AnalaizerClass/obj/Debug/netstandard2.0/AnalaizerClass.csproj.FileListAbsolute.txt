@@ -1,0 +1,24 @@
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\AnalaizerClass\bin\Debug\netstandard2.0\AnalaizerClass.deps.json
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\AnalaizerClass\bin\Debug\netstandard2.0\AnalaizerClass.dll
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\AnalaizerClass\bin\Debug\netstandard2.0\AnalaizerClass.pdb
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\AnalaizerClass\bin\Debug\netstandard2.0\CalcClass.dll
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\AnalaizerClass\bin\Debug\netstandard2.0\CalcClass.pdb
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\AnalaizerClass\obj\Debug\netstandard2.0\AnalaizerClass.csprojAssemblyReference.cache
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\AnalaizerClass\obj\Debug\netstandard2.0\AnalaizerClass.csproj.CoreCompileInputs.cache
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\AnalaizerClass\obj\Debug\netstandard2.0\AnalaizerClass.AssemblyInfoInputs.cache
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\AnalaizerClass\obj\Debug\netstandard2.0\AnalaizerClass.AssemblyInfo.cs
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\AnalaizerClass\obj\Debug\netstandard2.0\AnalaizerClass.csproj.CopyComplete
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\AnalaizerClass\obj\Debug\netstandard2.0\AnalaizerClass.dll
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\AnalaizerClass\obj\Debug\netstandard2.0\AnalaizerClass.pdb
+D:\Maks\polit\Lab_3\Lab3_Calc\AnalaizerClass\bin\Debug\netstandard2.0\AnalaizerClass.deps.json
+D:\Maks\polit\Lab_3\Lab3_Calc\AnalaizerClass\bin\Debug\netstandard2.0\AnalaizerClass.dll
+D:\Maks\polit\Lab_3\Lab3_Calc\AnalaizerClass\bin\Debug\netstandard2.0\AnalaizerClass.pdb
+D:\Maks\polit\Lab_3\Lab3_Calc\AnalaizerClass\bin\Debug\netstandard2.0\CalcClass.dll
+D:\Maks\polit\Lab_3\Lab3_Calc\AnalaizerClass\bin\Debug\netstandard2.0\CalcClass.pdb
+D:\Maks\polit\Lab_3\Lab3_Calc\AnalaizerClass\obj\Debug\netstandard2.0\AnalaizerClass.csprojAssemblyReference.cache
+D:\Maks\polit\Lab_3\Lab3_Calc\AnalaizerClass\obj\Debug\netstandard2.0\AnalaizerClass.AssemblyInfoInputs.cache
+D:\Maks\polit\Lab_3\Lab3_Calc\AnalaizerClass\obj\Debug\netstandard2.0\AnalaizerClass.AssemblyInfo.cs
+D:\Maks\polit\Lab_3\Lab3_Calc\AnalaizerClass\obj\Debug\netstandard2.0\AnalaizerClass.csproj.CoreCompileInputs.cache
+D:\Maks\polit\Lab_3\Lab3_Calc\AnalaizerClass\obj\Debug\netstandard2.0\AnalaizerClass.csproj.CopyComplete
+D:\Maks\polit\Lab_3\Lab3_Calc\AnalaizerClass\obj\Debug\netstandard2.0\AnalaizerClass.dll
+D:\Maks\polit\Lab_3\Lab3_Calc\AnalaizerClass\obj\Debug\netstandard2.0\AnalaizerClass.pdb

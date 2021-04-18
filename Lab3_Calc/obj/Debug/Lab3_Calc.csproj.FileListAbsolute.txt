@@ -1,0 +1,30 @@
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\Lab3_Calc\bin\Debug\Lab3_Calc.exe.config
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\Lab3_Calc\bin\Debug\Lab3_Calc.exe
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\Lab3_Calc\bin\Debug\Lab3_Calc.pdb
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\Lab3_Calc\bin\Debug\AnalaizerClass.dll
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\Lab3_Calc\bin\Debug\CalcClass.dll
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\Lab3_Calc\bin\Debug\AnalaizerClass.pdb
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\Lab3_Calc\bin\Debug\CalcClass.pdb
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\Lab3_Calc\obj\Debug\Lab3_Calc.csprojAssemblyReference.cache
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\Lab3_Calc\obj\Debug\Calculator.CalcUI.resources
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\Lab3_Calc\obj\Debug\Lab3_Calc.Properties.Resources.resources
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\Lab3_Calc\obj\Debug\Lab3_Calc.csproj.GenerateResource.cache
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\Lab3_Calc\obj\Debug\Lab3_Calc.csproj.CoreCompileInputs.cache
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\Lab3_Calc\obj\Debug\Lab3_Calc.csproj.CopyComplete
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\Lab3_Calc\obj\Debug\Lab3_Calc.exe
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\Lab3_Calc\obj\Debug\Lab3_Calc.pdb
+D:\Maks\polit\Lab_3\Lab3_Calc\Lab3_Calc\bin\Debug\Lab3_Calc.exe.config
+D:\Maks\polit\Lab_3\Lab3_Calc\Lab3_Calc\bin\Debug\Lab3_Calc.exe
+D:\Maks\polit\Lab_3\Lab3_Calc\Lab3_Calc\bin\Debug\Lab3_Calc.pdb
+D:\Maks\polit\Lab_3\Lab3_Calc\Lab3_Calc\bin\Debug\AnalaizerClass.dll
+D:\Maks\polit\Lab_3\Lab3_Calc\Lab3_Calc\bin\Debug\CalcClass.dll
+D:\Maks\polit\Lab_3\Lab3_Calc\Lab3_Calc\bin\Debug\AnalaizerClass.pdb
+D:\Maks\polit\Lab_3\Lab3_Calc\Lab3_Calc\bin\Debug\CalcClass.pdb
+D:\Maks\polit\Lab_3\Lab3_Calc\Lab3_Calc\obj\Debug\Lab3_Calc.csprojAssemblyReference.cache
+D:\Maks\polit\Lab_3\Lab3_Calc\Lab3_Calc\obj\Debug\Calculator.CalcUI.resources
+D:\Maks\polit\Lab_3\Lab3_Calc\Lab3_Calc\obj\Debug\Lab3_Calc.Properties.Resources.resources
+D:\Maks\polit\Lab_3\Lab3_Calc\Lab3_Calc\obj\Debug\Lab3_Calc.csproj.GenerateResource.cache
+D:\Maks\polit\Lab_3\Lab3_Calc\Lab3_Calc\obj\Debug\Lab3_Calc.csproj.CoreCompileInputs.cache
+D:\Maks\polit\Lab_3\Lab3_Calc\Lab3_Calc\obj\Debug\Lab3_Calc.csproj.CopyComplete
+D:\Maks\polit\Lab_3\Lab3_Calc\Lab3_Calc\obj\Debug\Lab3_Calc.exe
+D:\Maks\polit\Lab_3\Lab3_Calc\Lab3_Calc\obj\Debug\Lab3_Calc.pdb

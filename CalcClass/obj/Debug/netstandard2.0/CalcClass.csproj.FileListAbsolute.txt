@@ -1,0 +1,18 @@
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\CalcClass\bin\Debug\netstandard2.0\CalcClass.deps.json
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\CalcClass\bin\Debug\netstandard2.0\CalcClass.dll
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\CalcClass\bin\Debug\netstandard2.0\CalcClass.pdb
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\CalcClass\obj\Debug\netstandard2.0\CalcClass.csprojAssemblyReference.cache
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\CalcClass\obj\Debug\netstandard2.0\CalcClass.csproj.CoreCompileInputs.cache
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\CalcClass\obj\Debug\netstandard2.0\CalcClass.AssemblyInfoInputs.cache
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\CalcClass\obj\Debug\netstandard2.0\CalcClass.AssemblyInfo.cs
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\CalcClass\obj\Debug\netstandard2.0\CalcClass.dll
+C:\Users\olyat\Desktop\Методологія промислової розробки програмних продуктів та інтелектуальна власність\Lab_3\Lab3_Calc\CalcClass\obj\Debug\netstandard2.0\CalcClass.pdb
+D:\Maks\polit\Lab_3\Lab3_Calc\CalcClass\bin\Debug\netstandard2.0\CalcClass.deps.json
+D:\Maks\polit\Lab_3\Lab3_Calc\CalcClass\bin\Debug\netstandard2.0\CalcClass.dll
+D:\Maks\polit\Lab_3\Lab3_Calc\CalcClass\bin\Debug\netstandard2.0\CalcClass.pdb
+D:\Maks\polit\Lab_3\Lab3_Calc\CalcClass\obj\Debug\netstandard2.0\CalcClass.csprojAssemblyReference.cache
+D:\Maks\polit\Lab_3\Lab3_Calc\CalcClass\obj\Debug\netstandard2.0\CalcClass.AssemblyInfoInputs.cache
+D:\Maks\polit\Lab_3\Lab3_Calc\CalcClass\obj\Debug\netstandard2.0\CalcClass.AssemblyInfo.cs
+D:\Maks\polit\Lab_3\Lab3_Calc\CalcClass\obj\Debug\netstandard2.0\CalcClass.csproj.CoreCompileInputs.cache
+D:\Maks\polit\Lab_3\Lab3_Calc\CalcClass\obj\Debug\netstandard2.0\CalcClass.dll
+D:\Maks\polit\Lab_3\Lab3_Calc\CalcClass\obj\Debug\netstandard2.0\CalcClass.pdb
