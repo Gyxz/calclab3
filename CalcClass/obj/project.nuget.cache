@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YMD251m6F9DGMlmH4OAf6AQ5INCp4RbljAjBbUCLtvDWbO2PCQQBWELBBTsaAY6l3oK1EUKILsaX49SCW0gbsw==",
+  "dgSpecHash": "kV5RVSYBKU2Wk6uCB67HZjBJi5XE7EBzQfSfnRoSg6uSszJztNbW9Zh2lgzmxiHWH5au/AuyoPY77peogrEloA==",
   "success": true,
-  "projectFilePath": "D:\\Maks\\polit\\Lab_3\\Lab3_Calc\\CalcClass\\CalcClass.csproj",
+  "projectFilePath": "D:\\Maks\\polit\\calclab3\\CalcClass\\CalcClass.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maks\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\maks\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

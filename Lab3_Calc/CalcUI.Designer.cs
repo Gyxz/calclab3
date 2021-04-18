@@ -86,7 +86,7 @@
             // 
             // buttonEqual
             // 
-            this.buttonEqual.ForeColor = System.Drawing.Color.Red;
+            this.buttonEqual.ForeColor = System.Drawing.Color.Black;
             this.buttonEqual.Location = new System.Drawing.Point(232, 232);
             this.buttonEqual.Name = "buttonEqual";
             this.buttonEqual.Size = new System.Drawing.Size(39, 28);
@@ -97,7 +97,7 @@
             // 
             // buttonMC
             // 
-            this.buttonMC.ForeColor = System.Drawing.Color.Blue;
+            this.buttonMC.ForeColor = System.Drawing.Color.Black;
             this.buttonMC.Location = new System.Drawing.Point(232, 198);
             this.buttonMC.Name = "buttonMC";
             this.buttonMC.Size = new System.Drawing.Size(39, 28);
@@ -108,7 +108,7 @@
             // 
             // buttonM
             // 
-            this.buttonM.ForeColor = System.Drawing.Color.Blue;
+            this.buttonM.ForeColor = System.Drawing.Color.Black;
             this.buttonM.Location = new System.Drawing.Point(232, 164);
             this.buttonM.Name = "buttonM";
             this.buttonM.Size = new System.Drawing.Size(39, 28);
@@ -119,7 +119,7 @@
             // 
             // buttonMR
             // 
-            this.buttonMR.ForeColor = System.Drawing.Color.Blue;
+            this.buttonMR.ForeColor = System.Drawing.Color.Black;
             this.buttonMR.Location = new System.Drawing.Point(232, 130);
             this.buttonMR.Name = "buttonMR";
             this.buttonMR.Size = new System.Drawing.Size(39, 28);
@@ -130,7 +130,7 @@
             // 
             // buttonAdd
             // 
-            this.buttonAdd.ForeColor = System.Drawing.Color.Red;
+            this.buttonAdd.ForeColor = System.Drawing.Color.Black;
             this.buttonAdd.Location = new System.Drawing.Point(152, 232);
             this.buttonAdd.Name = "buttonAdd";
             this.buttonAdd.Size = new System.Drawing.Size(39, 28);
@@ -171,7 +171,7 @@
             // 
             // buttonSub
             // 
-            this.buttonSub.ForeColor = System.Drawing.Color.Red;
+            this.buttonSub.ForeColor = System.Drawing.Color.Black;
             this.buttonSub.Location = new System.Drawing.Point(152, 198);
             this.buttonSub.Name = "buttonSub";
             this.buttonSub.Size = new System.Drawing.Size(39, 28);
@@ -212,7 +212,7 @@
             // 
             // buttonMult
             // 
-            this.buttonMult.ForeColor = System.Drawing.Color.Red;
+            this.buttonMult.ForeColor = System.Drawing.Color.Black;
             this.buttonMult.Location = new System.Drawing.Point(152, 164);
             this.buttonMult.Name = "buttonMult";
             this.buttonMult.Size = new System.Drawing.Size(39, 28);
@@ -253,7 +253,7 @@
             // 
             // buttonDiv
             // 
-            this.buttonDiv.ForeColor = System.Drawing.Color.Red;
+            this.buttonDiv.ForeColor = System.Drawing.Color.Black;
             this.buttonDiv.Location = new System.Drawing.Point(152, 130);
             this.buttonDiv.Name = "buttonDiv";
             this.buttonDiv.Size = new System.Drawing.Size(39, 28);
@@ -307,7 +307,7 @@
             // 
             // button10
             // 
-            this.button10.ForeColor = System.Drawing.Color.Red;
+            this.button10.ForeColor = System.Drawing.Color.Black;
             this.button10.Location = new System.Drawing.Point(214, 19);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(46, 28);
@@ -318,7 +318,7 @@
             // 
             // button11
             // 
-            this.button11.ForeColor = System.Drawing.Color.Red;
+            this.button11.ForeColor = System.Drawing.Color.Black;
             this.button11.Location = new System.Drawing.Point(129, 19);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(79, 28);

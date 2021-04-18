@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VPDLVZDL/TfI2mipRbnHEg7DFsFUA3H7UNmxDUb0d/44Jel8Leu7zpJQFAPiRR6k/YOWxf2bosSQNwmKZGXVig==",
+  "dgSpecHash": "tFD0HiMvEr2Ki8V4famXBMeYpLFF+C79wSk4C9xgT9Y/YzlkN5sxuDL0V7UpjE1J3o1D3dImQ+nsZks5T+GM/Q==",
   "success": true,
-  "projectFilePath": "D:\\Maks\\polit\\Lab_3\\Lab3_Calc\\AnalaizerClass\\AnalaizerClass.csproj",
+  "projectFilePath": "D:\\Maks\\polit\\calclab3\\AnalaizerClass\\AnalaizerClass.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maks\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\maks\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Maks\\polit\\Lab_3\\Lab3_Calc\\AnalaizerClass\\AnalaizerClass.csproj": {}
+    "D:\\Maks\\polit\\calclab3\\AnalaizerClass\\AnalaizerClass.csproj": {}
   },
   "projects": {
-    "D:\\Maks\\polit\\Lab_3\\Lab3_Calc\\AnalaizerClass\\AnalaizerClass.csproj": {
+    "D:\\Maks\\polit\\calclab3\\AnalaizerClass\\AnalaizerClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Maks\\polit\\Lab_3\\Lab3_Calc\\AnalaizerClass\\AnalaizerClass.csproj",
+        "projectUniqueName": "D:\\Maks\\polit\\calclab3\\AnalaizerClass\\AnalaizerClass.csproj",
         "projectName": "AnalaizerClass",
-        "projectPath": "D:\\Maks\\polit\\Lab_3\\Lab3_Calc\\AnalaizerClass\\AnalaizerClass.csproj",
+        "projectPath": "D:\\Maks\\polit\\calclab3\\AnalaizerClass\\AnalaizerClass.csproj",
         "packagesPath": "C:\\Users\\maks\\.nuget\\packages\\",
-        "outputPath": "D:\\Maks\\polit\\Lab_3\\Lab3_Calc\\AnalaizerClass\\obj\\",
+        "outputPath": "D:\\Maks\\polit\\calclab3\\AnalaizerClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maks\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\Maks\\polit\\Lab_3\\Lab3_Calc\\CalcClass\\CalcClass.csproj": {
-                "projectPath": "D:\\Maks\\polit\\Lab_3\\Lab3_Calc\\CalcClass\\CalcClass.csproj"
+              "D:\\Maks\\polit\\calclab3\\CalcClass\\CalcClass.csproj": {
+                "projectPath": "D:\\Maks\\polit\\calclab3\\CalcClass\\CalcClass.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\Maks\\polit\\Lab_3\\Lab3_Calc\\CalcClass\\CalcClass.csproj": {
+    "D:\\Maks\\polit\\calclab3\\CalcClass\\CalcClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Maks\\polit\\Lab_3\\Lab3_Calc\\CalcClass\\CalcClass.csproj",
+        "projectUniqueName": "D:\\Maks\\polit\\calclab3\\CalcClass\\CalcClass.csproj",
         "projectName": "CalcClass",
-        "projectPath": "D:\\Maks\\polit\\Lab_3\\Lab3_Calc\\CalcClass\\CalcClass.csproj",
+        "projectPath": "D:\\Maks\\polit\\calclab3\\CalcClass\\CalcClass.csproj",
         "packagesPath": "C:\\Users\\maks\\.nuget\\packages\\",
-        "outputPath": "D:\\Maks\\polit\\Lab_3\\Lab3_Calc\\CalcClass\\obj\\",
+        "outputPath": "D:\\Maks\\polit\\calclab3\\CalcClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maks\\AppData\\Roaming\\NuGet\\NuGet.Config",
