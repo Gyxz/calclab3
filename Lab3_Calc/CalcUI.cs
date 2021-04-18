@@ -132,7 +132,7 @@ namespace Calculator
             textBoxResult.Text = AnalyzerClass.Estimate(textBoxExpression.Text);
         }
         //private void buttonEqual_KeyPress(object sender, KeyPressEventArgs e)
-        //{
+        //{	function wtf?
         //    if (e.KeyChar == (char)Keys.Enter)
         //    {
         //        MessageBox.Show("Enter key pressed");
@@ -185,7 +185,7 @@ namespace Calculator
             timer1.Stop();
             if (alarmCounter < 3)
             {
-                //MessageBox.Show("timer > 3= " + alarmCounter.ToString());
+                //MessageBox.Show("timer > 3= " + alarmCounter.ToString()); timer
                 if (textBoxExpression.Text != "")
                 {
                     string exp = textBoxExpression.Text;
